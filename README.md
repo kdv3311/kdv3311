@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Next.js**
 
-- 🌱 I’m currently learning **Next.js V13**
+- 🌱 I’m currently learning **Next.js 13**
 
 - 📫 How to reach me **eren.tan69@gmail.com**
 
